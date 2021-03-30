@@ -9,16 +9,12 @@ Param (
  $TO = "no-reply@unsw.edu.au",
  $SUBJECT = "FPL e-Line+ milestone :-)",
  $BODY = "Mission accomplished.",
- $ATTACH = "C:\Users\otteh\Raith\eLine_Message.txt",
+ $ATTACH = "C:\Users\z3390106\OneDrive - UNSW\Documents\GitHub\ottehoman\eLine_Message.txt",
  $SERVER = "smtp.gmail.com",
  $PORT = 587,
  $FROM = "no-reply@unsw.edu.au",
  $CRED =$( Get-StoredCredential -Target $SERVER)
 )
-
-Add-Type -AssemblyName System.Speech
-$Synth = New-Object -TypeName System.Speech.Synthesis.SpeechSynthesizer
-$Synth.Speak('Boom!')
 
 $StartTime = (Get-Date).Ticks
 
@@ -35,5 +31,3 @@ $SECSTR = " in {0:f2} seconds." -f ($SECS % 60)
 $STR = "Email sent to " + $TO + " in " + ($SECS).ToString("#.#") + " seconds."
 
 Write-Host $STR
-
-$Synth.Speak($STR)
