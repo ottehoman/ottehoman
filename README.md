@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @ottehoman
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @ottehoman :-)
+- 👀 I’m interested in ... stuff.
+- 🌱 I’m currently learning ... python for dummies;
+- 💞️ I’m looking to collaborate on ... gadgets;
+- 📫 How to reach me ... phone, TXT, whatsapp, email, teams, you name it, I got it.
 
 <!---
 ottehoman/ottehoman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
