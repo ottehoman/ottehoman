@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ottehoman :-)
-- 👀 I’m interested in ... stuff.
-- 🌱 I’m currently learning ... python for dummies;
+- 👀 I’m interested in ... too many things.
+- 🌱 I’m currently learning ... FORTRAN for old people;
 - 💞️ I’m looking to collaborate on ... gadgets;
 - 📫 How to reach me ... phone, TXT, whatsapp, email, teams, you name it, I got it.
 
